@@ -1,5 +1,3 @@
 # hello-world
 test repository
- Hi,
- Trying something new.
- -Hitesh
+ I have removed some code.
